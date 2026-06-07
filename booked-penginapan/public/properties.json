@@ -4,20 +4,55 @@
     "name": "Hotel Santai",
     "price": 350000,
     "description": "Hotel nyaman di pusat kota dengan fasilitas kolam renang dan restoran.",
-    "image": "https://via.placeholder.com/300"
+    "image": "/Images/hotel1.png"
   },
   {
     "id": 2,
     "name": "Villa Indah",
     "price": 500000,
     "description": "Villa mewah dengan pemandangan alam yang asri dan tenang.",
-    "image": "https://via.placeholder.com/300"
+    "image": "/Images/hotel2.png"
   },
   {
     "id": 3,
     "name": "Resort Mewah",
     "price": 1000000,
     "description": "Resort bintang lima dengan spa, infinity pool, dan layanan premium.",
-    "image": "https://via.placeholder.com/300"
+    "image": "/Images/hotel3.png"
+  },
+  {
+    "id": 4,
+    "name": "Hotel Bintang Lima",
+    "price": 1500000,
+    "description": "Hotel bintang lima dengan fasilitas lengkap dan pelayanan terbaik.",
+    "image": "/Images/hotel4.png"
+  },
+  {
+    "id": 5,
+    "name": "Villa Sunrise",
+    "price": 750000,
+    "description": "Villa dengan pemandangan matahari terbit yang memukau.",
+    "image": "/Images/hotel5.png"
+  },
+  {
+    "id": 6,
+    "name": "Resort Pantai",
+    "price": 900000,
+    "description": "Resort tepi pantai dengan akses langsung ke pasir putih.",
+    "image": "/Images/hotel6.png"
+  },
+  {
+    "id": 7,
+    "name": "Hotel City View",
+    "price": 450000,
+    "description": "Hotel modern dengan pemandangan kota yang indah di malam hari.",
+    "image": "/Images/hotel7.png"
+  },
+  {
+    "id": 8,
+    "name": "Villa Garden",
+    "price": 650000,
+    "description": "Villa asri dikelilingi taman hijau yang tenang dan sejuk.",
+    "image": "/Images/hotel8.png"
   }
 ]
